@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Roll Extract</string>
+    <string name="attendence_table_builder">Attendence Table Builder</string>
+    <string name="paste_attendence_from_webex_here">Paste Attendence from webex here</string>
+    <string name="proceed_old_method">Proceed (Old Method)</string>
+    <string name="generate_statement">Generate Statement</string>
+    <string name="generate_indexed_output">Generate Indexed Output</string>
+    <string name="textview">TextView</string>
+    <string name="design_lts_beta">Design Table</string>
+    <string name="special_editons">Special Editons</string>
+</resources>
